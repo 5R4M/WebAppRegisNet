@@ -31,12 +31,3 @@ h1, h4 {
 .form-check-label {
     color: #00796b; /* Teal color */
 }
-
-/* Add rounded border to all login elements */
-form {
-    border: 2px solid #00796b; /* Teal border */
-    border-radius: 15px; /* Rounded border */
-    padding: 20px;
-    background-color: #ffffff; /* White background */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-}
